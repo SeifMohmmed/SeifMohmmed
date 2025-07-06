@@ -1,29 +1,42 @@
-<h1 align="center">Hi 👋, I'm Software Developer</h1>
+<h1 align="center">Hi 👋 I'm Seif Mohamed</h1>
 
-<h3 align="center">A Junior Full-Stack developer</h3><br>
+<h2 align="center">Software Engineer | .NET Developer | Full Stack</h2>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20GitHub%20profile!;I'm%20.NET%20Full%20Stack%20Developer;Let's%20connect%20on%20LinkedIn!&font=Bold%20Code&center=true&color=30D050&pause=2000" />
+</p>
 
-- 🔭 I’m current interested in **Web Development Full-Stack**
+  
+## 📤Connect with Me:
+<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/seif-mohamed23" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         width="50" height="50" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.whatsapp.com/channel/+0201223297129" target="_blank">
+    <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png"
+          width="50" height="50" alt="WhatsApp" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/Seifmo" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-3029920.png"
+          width="50" height="50" alt="Codeforces" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/saideissa227/" target="_blank">
+    <img src="https://shopallpremium.com/wp-content/uploads/2022/02/LeetCode_logo_rvs.png"
+         width="50" height="50" alt="LeetCode" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning **Full-Stack Using .NET & Angular**
 
-- 🤝 I’m looking for help with **🥅 2024 Goals: Contribute more to Open Source projects**
-
-- 💬 Ask me about **anything related about programming and life**
-
-- 📫 How to reach me **saif.eissa7797@gmail.com**
-
-- ⚡ Fun fact **I am a gamer Man😎**
-
-
-<h2 align="left">Languages and Tools:</h2>
-
-###
-
+## 🛠️ Languages & Tools:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30" height="30" alt=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5" />
@@ -31,16 +44,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30" height="30" alt="Sass" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" height="30" alt="AngularJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30" height="30" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30" height="30" alt="Redis" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" height="30" alt="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" alt="GitHub" />
-<!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" height="30" alt="Kubernetes" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" height="30" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="30" height="30" alt="Swagger" />
 </div>
+<br />
 
 ## My Lifecycle
 <img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" width="250" height="250" align="right"/>
@@ -56,18 +70,3 @@ fun main() {
 }
 
 ```
-
-###
-
-<h2 align="left">Connect with me:</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/seif-mohamed23/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/saif.eissa.54" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  />
-  </a>
-</div>
