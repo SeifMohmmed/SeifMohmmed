@@ -22,7 +22,7 @@
   </a>
   &nbsp;
 <a href="https://wa.me/201223297129" target="_blank" rel="noopener noreferrer">
-  <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png"
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png"
        width="50" height="50" alt="WhatsApp" />
 </a>
   &nbsp;
