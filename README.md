@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋 I'm Seif Mohamed</h1>
+<h1 align="center">Hi ,I'm Seif Mohamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 
 <h2 align="center">Software Engineer | .NET Developer | Full Stack</h2>
 
@@ -6,12 +7,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20GitHub%20profile!;I'm%20.NET%20Full%20Stack%20Developer;Let's%20connect%20on%20LinkedIn!&font=Bold%20Code&center=true&color=30D050&pause=2000" />
 </p>
 
-
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=SeifMohmmed&style=flat&color=4010B0">
     <img src="https://komarev.com/ghpvc/?username=SeifMohmmed&style=flat&color=4010B0" height="20" alt="Profile views"/>
   </a>
 </p>
+
   
 ## 📤Connect with Me:
 <br/>
